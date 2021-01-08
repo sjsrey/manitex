@@ -5,8 +5,7 @@ setup(
     name="manitex",
     version="0.1",
     packages=find_packages(),
-    entry_points = {
-        'console_scripts': [
+    entry_points={'console_scripts': [
             'manitex = manitex.manitex:main',
         ]
     }
