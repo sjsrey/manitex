@@ -1,0 +1,1646 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Arribas-Bel%
+}{%
+Arribas-Bel%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+darribas_gds15}
+\APACinsertmetastar {%
+darribas_gds15}%
+\begin{APACrefauthors}%
+Arribas-Bel, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {Geographic Data Science'15.} {Geographic data science'15.}
+\newblock
+\begin{APACrefURL} [{2016-02-19}]\url{http://darribas.org/gds15}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.5281/zenodo.46313} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Arribas-Bel%
+, Patino%
+\BCBL {}\ \BBA {} Duque%
+}{%
+Arribas-Bel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+ArribasBel2017}
+\APACinsertmetastar {%
+ArribasBel2017}%
+\begin{APACrefauthors}%
+Arribas-Bel, D.%
+, Patino, J.%
+\BCBL {}\ \BBA {} Duque, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Remote sensing-based measurement of Living Environment
+  Deprivation: Improving classical approaches with machine learning} {Remote
+  sensing-based measurement of living environment deprivation: Improving
+  classical approaches with machine learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS ONE}{12}{5}{e0176684}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Arribas-Bel%
+\ \BBA {} Reades%
+}{%
+Arribas-Bel%
+\ \BBA {} Reades%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+ArribasBel2018}
+\APACinsertmetastar {%
+ArribasBel2018}%
+\begin{APACrefauthors}%
+Arribas-Bel, D.%
+\BCBT {}\ \BBA {} Reades, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Geography and computers: Past, present, and future}
+  {Geography and computers: Past, present, and future}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Geography Compass}{0}{0}{1-10}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/gec3.12403} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Azevedo%
+\ \BBA {} Jacobson%
+}{%
+Azevedo%
+\ \BBA {} Jacobson%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Azevedo2008}
+\APACinsertmetastar {%
+Azevedo2008}%
+\begin{APACrefauthors}%
+Azevedo, R.%
+\BCBT {}\ \BBA {} Jacobson, M\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Advances in scaffolding learning with hypertext and
+  hypermedia: A summary and critical analysis} {Advances in scaffolding
+  learning with hypertext and hypermedia: A summary and critical
+  analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Educational Technology Research and
+  Development}{56}{1}{93--100}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barba%
+}{%
+Barba%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Barba_2015_bids}
+\APACinsertmetastar {%
+Barba_2015_bids}%
+\begin{APACrefauthors}%
+Barba, L\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {Computational thinking and the pedagogy of computable content.}
+  {Computational thinking and the pedagogy of computable content.}
+\newblock
+\APAChowpublished {Lecture. Berkely Institute for Data Science}.
+\newblock
+\begin{APACrefURL}
+  \url{https://bids.berkeley.edu/resources/videos/computational-thinking-and-pedagogy-computable-content}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barnes%
+}{%
+Barnes%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Barnes2013}
+\APACinsertmetastar {%
+Barnes2013}%
+\begin{APACrefauthors}%
+Barnes, T\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data, little history} {Big data, little
+  history}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Dialogues in Human Geography}{3}{3}{297--302}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barnes%
+}{%
+Barnes%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Barnes2014}
+\APACinsertmetastar {%
+Barnes2014}%
+\begin{APACrefauthors}%
+Barnes, T\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What's old is new, and new is old: History and
+  geography's quantitative revolutions} {What's old is new, and new is old:
+  History and geography's quantitative revolutions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Dialogues in Human Geography}{4}{1}{50--53}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bivand%
+}{%
+Bivand%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Bivand:2020aa}
+\APACinsertmetastar {%
+Bivand:2020aa}%
+\begin{APACrefauthors}%
+Bivand, R\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Progress in the R ecosystem for representing and
+  handling spatial data} {Progress in the r ecosystem for representing and
+  handling spatial data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geographical Systems}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s10109-020-00336-0}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10109-020-00336-0} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bort%
+, Czarnik%
+\BCBL {}\ \BBA {} Brylow%
+}{%
+Bort%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Bort2015}
+\APACinsertmetastar {%
+Bort2015}%
+\begin{APACrefauthors}%
+Bort, H.%
+, Czarnik, M.%
+\BCBL {}\ \BBA {} Brylow, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introducing computing concepts to non-majors: A case
+  study in gothic novels} {Introducing computing concepts to non-majors: A case
+  study in gothic novels}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 46th ACM Technical Symposium on
+  Computer Science Education} {Proceedings of the 46th acm technical symposium
+  on computer science education}\ (\BPGS\ 132--137).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bowlick%
+, Goldberg%
+\BCBL {}\ \BBA {} Bednarz%
+}{%
+Bowlick%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Bowlick2017}
+\APACinsertmetastar {%
+Bowlick2017}%
+\begin{APACrefauthors}%
+Bowlick, F\BPBI J.%
+, Goldberg, D\BPBI W.%
+\BCBL {}\ \BBA {} Bednarz, S\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Computer science and programming courses in geography
+  departments in the United States} {Computer science and programming courses
+  in geography departments in the united states}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Professional Geographer}{69}{1}{138--150}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bowlick%
+\ \BBA {} Wright%
+}{%
+Bowlick%
+\ \BBA {} Wright%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Bowlick2018}
+\APACinsertmetastar {%
+Bowlick2018}%
+\begin{APACrefauthors}%
+Bowlick, F\BPBI J.%
+\BCBT {}\ \BBA {} Wright, D\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Digital Data-Centric Geography: Implications for
+  Geography's Frontier} {Digital data-centric geography: Implications for
+  geography's frontier}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Professional Geographer}{70}{4}{687--694}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brunsdon%
+\ \BBA {} Comber%
+}{%
+Brunsdon%
+\ \BBA {} Comber%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Brunsdon:2020aa}
+\APACinsertmetastar {%
+Brunsdon:2020aa}%
+\begin{APACrefauthors}%
+Brunsdon, C.%
+\BCBT {}\ \BBA {} Comber, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Opening practice: supporting reproducibility and
+  critical spatial data science} {Opening practice: supporting reproducibility
+  and critical spatial data science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geographical Systems}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s10109-020-00334-2}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10109-020-00334-2} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Butcher%
+}{%
+Butcher%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+butcher2010open}
+\APACinsertmetastar {%
+butcher2010open}%
+\begin{APACrefauthors}%
+Butcher, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {Open educational resources and higher education} {Open
+  educational resources and higher education}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{OER Africa}.
+\newblock
+\begin{APACrefURL} [{22 February
+  2020}]\url{https://www.oerafrica.org/FTPFolder/understanding/OER%20in%20HE%20concept%20paper.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cabiria%
+}{%
+Cabiria%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Cabiria2012}
+\APACinsertmetastar {%
+Cabiria2012}%
+\begin{APACrefauthors}%
+Cabiria, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Connectivist learning environments: Massive open online
+  courses} {Connectivist learning environments: Massive open online
+  courses}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {The 2012 World Congress in Computer Science Computer
+  Engineering and Applied Computing} {The 2012 world congress in computer
+  science computer engineering and applied computing}\ (\BPGS\ 16--19).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chapman%
+}{%
+Chapman%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Chapman:2010aa}
+\APACinsertmetastar {%
+Chapman:2010aa}%
+\begin{APACrefauthors}%
+Chapman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dealing with Maths Anxiety: How Do You Teach Mathematics
+  in a Geography Department?} {Dealing with maths anxiety: How do you teach
+  mathematics in a geography department?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geography in Higher
+  Education}{34}{2}{205--213}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Donoho%
+}{%
+Donoho%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Donoho2017}
+\APACinsertmetastar {%
+Donoho2017}%
+\begin{APACrefauthors}%
+Donoho, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {50 Years of Data Science} {50 years of data
+  science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational and Graphical
+  Statistics}{26}{4}{745-766}.
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1007/978-3-642-23430-9_71}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Du%
+}{%
+Du%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+du2017}
+\APACinsertmetastar {%
+du2017}%
+\begin{APACrefauthors}%
+Du, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Knowledge Creation and Information Sharing through Open
+  Education Resources} {Knowledge creation and information sharing through open
+  education resources}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{University of North Texas}.
+\newblock
+\begin{APACrefURL} [{22 February
+  2020}]\url{https://digital.library.unt.edu/ark:/67531/metadc1036562/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ehlers%
+}{%
+Ehlers%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Ehlers2011}
+\APACinsertmetastar {%
+Ehlers2011}%
+\begin{APACrefauthors}%
+Ehlers, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Extending the Territory: From Open Educational Resources
+  to Open Educational Practices} {Extending the territory: From open
+  educational resources to open educational practices}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Open, Flexible, and Distance
+  Learning}{15}{2}{1-10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eraut%
+}{%
+Eraut%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+eraut2008}
+\APACinsertmetastar {%
+eraut2008}%
+\begin{APACrefauthors}%
+Eraut, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {{How Professionals Learn through Work}} {{How Professionals
+  Learn through Work}}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{University of Surry}.
+\newblock
+\begin{APACrefURL} [{22 February
+  2020}]\url{http://surreyprofessionaltraining.pbworks.com/w/file/fetch/11505951/How%20Professionals%20Learn%20through%20Work.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Etherington%
+}{%
+Etherington%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Etherington2016}
+\APACinsertmetastar {%
+Etherington2016}%
+\begin{APACrefauthors}%
+Etherington, T\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Teaching introductory GIS programming to geographers
+  using an open source Python approach} {Teaching introductory gis programming
+  to geographers using an open source python approach}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geography in Higher
+  Education}{40}{1}{117--130}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fan%
+, Rey%
+\BCBL {}\ \BBA {} Myint%
+}{%
+Fan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Fan2016}
+\APACinsertmetastar {%
+Fan2016}%
+\begin{APACrefauthors}%
+Fan, C.%
+, Rey, S\BPBI J.%
+\BCBL {}\ \BBA {} Myint, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Spatially filtered ridge regression (SFRR): A regression
+  framework to understanding impacts of land cover patterns on urban climate}
+  {Spatially filtered ridge regression (sfrr): A regression framework to
+  understanding impacts of land cover patterns on urban climate}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transactions in GIS}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Feldon%
+\ \protect \BOthers {.}}{%
+Feldon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Feldon2017}
+\APACinsertmetastar {%
+Feldon2017}%
+\begin{APACrefauthors}%
+Feldon, D\BPBI F.%
+, Jeong, S.%
+, Peugh, J.%
+, Roksa, J.%
+, Maahs-Fladung, C.%
+, Shenoy, A.%
+\BCBL {}\ \BBA {} Oliva, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Null effects of boot camps and short-format training for
+  {PhD} students in life sciences} {Null effects of boot camps and short-format
+  training for {PhD} students in life sciences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{114}{37}{9854--9858}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gonz{\'a}lez-Bail{\'o}n%
+}{%
+Gonz{\'a}lez-Bail{\'o}n%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+gonzalez2013big}
+\APACinsertmetastar {%
+gonzalez2013big}%
+\begin{APACrefauthors}%
+Gonz{\'a}lez-Bail{\'o}n, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big data and the fabric of human geography} {Big data
+  and the fabric of human geography}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Dialogues in Human Geography}{3}{3}{292--296}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Graham%
+\ \BBA {} Shelton%
+}{%
+Graham%
+\ \BBA {} Shelton%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Graham2013}
+\APACinsertmetastar {%
+Graham2013}%
+\begin{APACrefauthors}%
+Graham, M.%
+\BCBT {}\ \BBA {} Shelton, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Geography and the future of big data, big data and the
+  future of geography} {Geography and the future of big data, big data and the
+  future of geography}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Dialogues in Human Geography}{3}{3}{255--261}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guzdial%
+}{%
+Guzdial%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Guzdial2010}
+\APACinsertmetastar {%
+Guzdial2010}%
+\begin{APACrefauthors}%
+Guzdial, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Does contextualized computing education help?} {Does
+  contextualized computing education help?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Inroads}{1}{4}{4--6}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hilton%
+, Wiley%
+, Stein%
+\BCBL {}\ \BBA {} Johnson%
+}{%
+Hilton%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+Hilton2010}
+\APACinsertmetastar {%
+Hilton2010}%
+\begin{APACrefauthors}%
+Hilton, J.%
+, Wiley, D.%
+, Stein, J.%
+\BCBL {}\ \BBA {} Johnson, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The four `R's of openness and ALMS analysis: frameworks
+  for open educational resources} {The four `r's of openness and alms analysis:
+  frameworks for open educational resources}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Open Learning: The Journal of Open, Distance and
+  e-Learning}{25}{1}{37-44}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1080/02680510903482132}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/02680510903482132} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kluyver%
+\ \protect \BOthers {.}}{%
+Kluyver%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+kluyver16}
+\APACinsertmetastar {%
+kluyver16}%
+\begin{APACrefauthors}%
+Kluyver, T.%
+, Ragan-Kelley, B.%
+, P\'{e}rez, F.%
+, Granger, B.%
+, Bussonnier, M.%
+, Frederic, J.%
+\BDBL {}{Jupyter Development Team}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Jupyter notebooks -- a publishing format for
+  reproducible computational workflows} {Jupyter notebooks -- a publishing
+  format for reproducible computational workflows}.{\BBCQ}
+\newblock
+\BIn{} F.~Loizides\ \BBA {} B.~Schmidt\ (\BEDS), \APACrefbtitle {Positioning
+  and power in academic publishing: Players, agents and agendas} {Positioning
+  and power in academic publishing: Players, agents and agendas}\ (\BPG~97-90).
+\newblock
+\APACaddressPublisher{}{IOS Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Knox%
+}{%
+Knox%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Knox2013}
+\APACinsertmetastar {%
+Knox2013}%
+\begin{APACrefauthors}%
+Knox, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Five critiques of the open educational resources
+  movement} {Five critiques of the open educational resources movement}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Teaching in Higher Education}{18}{8}{821-832}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/13562517.2013.774354} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lazer%
+\ \protect \BOthers {.}}{%
+Lazer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+Lazer2009}
+\APACinsertmetastar {%
+Lazer2009}%
+\begin{APACrefauthors}%
+Lazer, D.%
+, Pentland, A.%
+, Adamic, L.%
+, Aral, S.%
+, Barab\'{a}si, A\BPBI L.%
+, Brewer, D.%
+\BDBL {}Van~Alstyne, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{February}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Life in the Network: the coming age of Computational
+  Social Science}} {{Life in the Network: the coming age of Computational
+  Social Science}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science}{323}{5915}{721-723}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ley%
+\ \protect \BOthers {.}}{%
+Ley%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+esrc2013}
+\APACinsertmetastar {%
+esrc2013}%
+\begin{APACrefauthors}%
+Ley, D.%
+, Braun, B.%
+, Domosh, M.%
+, Elliott, S.%
+, Le~Heron, R.%
+, Peake, L.%
+\BDBL {}Yeoh, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{March}{}.
+\newblock
+\APACrefbtitle {{International Benchmarking Review of UK Human Geography}.}
+  {{International Benchmarking Review of UK Human Geography}.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL} [{19 September
+  2018}]\url{https://esrc.ukri.org/files/research/research-and-impact-evaluation/international-benchmarking-review-of-uk-human-geography/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Littlejohn%
+\ \BBA {} Hood%
+}{%
+Littlejohn%
+\ \BBA {} Hood%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+littlejohn2017}
+\APACinsertmetastar {%
+littlejohn2017}%
+\begin{APACrefauthors}%
+Littlejohn, A.%
+\BCBT {}\ \BBA {} Hood, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How educators build knowledge and expand their practice:
+  The case of open education resources} {How educators build knowledge and
+  expand their practice: The case of open education resources}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{British Journal of Educational
+  Technology}{48}{2}{499-510}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/bjet.12438} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lukkarinen%
+\ \BBA {} Sorva%
+}{%
+Lukkarinen%
+\ \BBA {} Sorva%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Lukkarinen2016}
+\APACinsertmetastar {%
+Lukkarinen2016}%
+\begin{APACrefauthors}%
+Lukkarinen, A.%
+\BCBT {}\ \BBA {} Sorva, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Classifying the tools of contextualized programming
+  education and forms of media computation} {Classifying the tools of
+  contextualized programming education and forms of media computation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 16th Koli Calling International
+  Conference on Computing Education Research} {Proceedings of the 16th koli
+  calling international conference on computing education research}\ (\BPGS\
+  51--60).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Millington%
+\ \BBA {} Reades%
+}{%
+Millington%
+\ \BBA {} Reades%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+millington_reades_2017_code}
+\APACinsertmetastar {%
+millington_reades_2017_code}%
+\begin{APACrefauthors}%
+Millington, J.%
+\BCBT {}\ \BBA {} Reades, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Python Lessons: {Code Camp}.} {Python lessons: {Code Camp}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/lessons/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mir%
+, Mishra%
+, Ruvolo%
+, Pollock%
+\BCBL {}\ \BBA {} Engen%
+}{%
+Mir%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Mir2017}
+\APACinsertmetastar {%
+Mir2017}%
+\begin{APACrefauthors}%
+Mir, D\BPBI J.%
+, Mishra, S.%
+, Ruvolo, P.%
+, Pollock, L.%
+\BCBL {}\ \BBA {} Engen, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How do faculty partner while teaching interdisciplinary
+  CS+ X courses: models and experiences} {How do faculty partner while teaching
+  interdisciplinary cs+ x courses: models and experiences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computing Sciences in
+  Colleges}{32}{6}{24--33}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mishra%
+}{%
+Mishra%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Mishra2017}
+\APACinsertmetastar {%
+Mishra2017}%
+\begin{APACrefauthors}%
+Mishra, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Open educational resources: removing barriers from
+  within} {Open educational resources: removing barriers from within}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Distance Education}{38}{3}{369-380}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1080/01587919.2017.1369350}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/01587919.2017.1369350} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Muller%
+\ \BBA {} Kidd%
+}{%
+Muller%
+\ \BBA {} Kidd%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Muller2014}
+\APACinsertmetastar {%
+Muller2014}%
+\begin{APACrefauthors}%
+Muller, C\BPBI L.%
+\BCBT {}\ \BBA {} Kidd, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Debugging geographers: teaching programming to
+  non-computer scientists} {Debugging geographers: teaching programming to
+  non-computer scientists}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geography in Higher
+  Education}{38}{2}{175--192}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Naik%
+, Kominers%
+, Raskar%
+, Glaeser%
+\BCBL {}\ \BBA {} Hidalgo%
+}{%
+Naik%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Naik2017}
+\APACinsertmetastar {%
+Naik2017}%
+\begin{APACrefauthors}%
+Naik, N.%
+, Kominers, S.%
+, Raskar, R.%
+, Glaeser, E.%
+\BCBL {}\ \BBA {} Hidalgo, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Computer vision uncovers predictors of physical urban
+  change} {Computer vision uncovers predictors of physical urban
+  change}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{114}{29}{7571--7576}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+P{\'e}rez%
+\ \BBA {} Granger%
+}{%
+P{\'e}rez%
+\ \BBA {} Granger%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+perez_2007_ipython}
+\APACinsertmetastar {%
+perez_2007_ipython}%
+\begin{APACrefauthors}%
+P{\'e}rez, F.%
+\BCBT {}\ \BBA {} Granger, B\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{IPython}: a {System} for {Interactive} {Scientific}
+  {Computing}} {{IPython}: a {System} for {Interactive} {Scientific}
+  {Computing}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computing in Science \& Engineering}{9}{3}{21--29}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+QAA%
+}{%
+QAA%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+QAA2014}
+\APACinsertmetastar {%
+QAA2014}%
+\begin{APACrefauthors}%
+QAA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{December}{}.
+\newblock
+\APACrefbtitle {{Subject Benchmark Statement for Geography}.} {{Subject
+  Benchmark Statement for Geography}.}
+\newblock
+\APAChowpublished {Online}.
+\newblock
+\begin{APACrefURL} [{24 September
+  2018}]\url{https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/sbs-geography-14.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Raymond%
+}{%
+Raymond%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+raymond_cathedral_1999}
+\APACinsertmetastar {%
+raymond_cathedral_1999}%
+\begin{APACrefauthors}%
+Raymond, E\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {The {Cathedral} and the {Bazaar}} {The {Cathedral} and the
+  {Bazaar}}.
+\newblock
+\APACaddressPublisher{}{O'Reilly}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reades%
+, Zhong%
+, Manley%
+, Milton%
+\BCBL {}\ \BBA {} Batty%
+}{%
+Reades%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+reades2016}
+\APACinsertmetastar {%
+reades2016}%
+\begin{APACrefauthors}%
+Reades, J.%
+, Zhong, C.%
+, Manley, E.%
+, Milton, R.%
+\BCBL {}\ \BBA {} Batty, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Finding pearls in London's oysters} {Finding pearls in
+  london's oysters}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Built Environment}{42}{3}{365--381}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rey%
+}{%
+Rey%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+rey_09jgs}
+\APACinsertmetastar {%
+rey_09jgs}%
+\begin{APACrefauthors}%
+Rey, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Show me the code: {Spatial} analysis and open source}
+  {Show me the code: {Spatial} analysis and open source}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geographical Systems}{11}{}{191--207}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rey%
+}{%
+Rey%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+rey_2016_narsc}
+\APACinsertmetastar {%
+rey_2016_narsc}%
+\begin{APACrefauthors}%
+Rey, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {Spatial data analysis with {PySAL}.} {Spatial data analysis
+  with {PySAL}.}
+\newblock
+\begin{APACrefURL} \url{https://github.com/sjsrey/narsc16} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rey%
+}{%
+Rey%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+rey_19sea}
+\APACinsertmetastar {%
+rey_19sea}%
+\begin{APACrefauthors}%
+Rey, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{PySAL}: the first 10 years} {{PySAL}: the first 10
+  years}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Spatial Economic Analysis}{14}{3}{273-282}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/17421772.2019.1593495} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Royal Geographical Society with IBG}%
+}{%
+{Royal Geographical Society with IBG}%
+}{%
+{\protect \APACyear {{n.d.}}}%
+}]{%
+rgs2017}
+\APACinsertmetastar {%
+rgs2017}%
+\begin{APACrefauthors}%
+{Royal Geographical Society with IBG}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{n.d.}}{}{}.
+\newblock
+\APACrefbtitle {{Careers with geography: Employability}.} {{Careers with
+  geography: Employability}.}
+\newblock
+\begin{APACrefURL} [{19 September
+  2018}]\url{https://www.rgs.org/geography/studying-geography-and-careers/careers/employability/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Santibanez%
+, Kloft%
+\BCBL {}\ \BBA {} Lakes%
+}{%
+Santibanez%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Santibanez2015}
+\APACinsertmetastar {%
+Santibanez2015}%
+\begin{APACrefauthors}%
+Santibanez, S.%
+, Kloft, M.%
+\BCBL {}\ \BBA {} Lakes, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Performance Analysis of Machine Learning Algorithms for
+  Regression of Spatial Variables: A Case Study in the Real Estate Industry}
+  {Performance analysis of machine learning algorithms for regression of
+  spatial variables: A case study in the real estate industry}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {GeoComputation Papers} {Geocomputation papers}\ (\BPGS\
+  292--297).
+\newblock
+\APACaddressPublisher{Dallas}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Singleton%
+}{%
+Singleton%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Singleton2014}
+\APACinsertmetastar {%
+Singleton2014}%
+\begin{APACrefauthors}%
+Singleton, A\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{January}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning to code} {Learning to code}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Geographical Magazine}{}{}{77}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Singleton%
+, Spielman%
+\BCBL {}\ \BBA {} Brunsdon%
+}{%
+Singleton%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Singleton2016}
+\APACinsertmetastar {%
+Singleton2016}%
+\begin{APACrefauthors}%
+Singleton, A\BPBI D.%
+, Spielman, S.%
+\BCBL {}\ \BBA {} Brunsdon, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Establishing a framework for Open Geographic Information
+  science} {Establishing a framework for open geographic information
+  science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Geographical Information
+  Science}{30}{8}{1507--1521}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sol{\'\i}s%
+, Anderson%
+\BCBL {}\ \BBA {} Rajagopalan%
+}{%
+Sol{\'\i}s%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+Solis:2020aa}
+\APACinsertmetastar {%
+Solis:2020aa}%
+\begin{APACrefauthors}%
+Sol{\'\i}s, P.%
+, Anderson, J.%
+\BCBL {}\ \BBA {} Rajagopalan, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Open geospatial tools for humanitarian data creation,
+  analysis, and learning through the global lens of YouthMappers} {Open
+  geospatial tools for humanitarian data creation, analysis, and learning
+  through the global lens of youthmappers}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geographical Systems}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s10109-020-00339-x}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10109-020-00339-x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stevens%
+, Gaughan%
+, Linard%
+\BCBL {}\ \BBA {} Tatem%
+}{%
+Stevens%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Stevens2015}
+\APACinsertmetastar {%
+Stevens2015}%
+\begin{APACrefauthors}%
+Stevens, F.%
+, Gaughan, A.%
+, Linard, C.%
+\BCBL {}\ \BBA {} Tatem, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Disaggregating census data for population mapping using
+  random forests with remotely-sensed and ancillary data} {Disaggregating
+  census data for population mapping using random forests with remotely-sensed
+  and ancillary data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PloS One}{10}{2}{e0107042}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Torrens%
+}{%
+Torrens%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Torrens2010}
+\APACinsertmetastar {%
+Torrens2010}%
+\begin{APACrefauthors}%
+Torrens, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Geography and computational social science} {Geography
+  and computational social science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{GeoJournal}{75}{2}{133--148}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trafford%
+\ \BBA {} Shirota%
+}{%
+Trafford%
+\ \BBA {} Shirota%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Trafford2011}
+\APACinsertmetastar {%
+Trafford2011}%
+\begin{APACrefauthors}%
+Trafford, P.%
+\BCBT {}\ \BBA {} Shirota, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An introduction to virtual learning environments} {An
+  introduction to virtual learning environments}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Gakushuin Economics Papers}{48}{10}{143-51}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tukey%
+}{%
+Tukey%
+}{%
+{\protect \APACyear {1962}}%
+}]{%
+Tukey1962}
+\APACinsertmetastar {%
+Tukey1962}%
+\begin{APACrefauthors}%
+Tukey, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1962}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The future of data analysis} {The future of data
+  analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Annals of Mathematical Statistics}{33}{1}{1-67}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ufford%
+, Pacer%
+, Seal%
+\BCBL {}\ \BBA {} Kelley%
+}{%
+Ufford%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Ufford2018}
+\APACinsertmetastar {%
+Ufford2018}%
+\begin{APACrefauthors}%
+Ufford, M.%
+, Pacer, M.%
+, Seal, M.%
+\BCBL {}\ \BBA {} Kelley, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{Beyond Interactive: Notebook Innovation at Netflix}.} {{Beyond
+  Interactive: Notebook Innovation at Netflix}.}
+\newblock
+\begin{APACrefURL} [{19 September
+  2018}]\url{https://medium.com/netflix-techblog/notebook-innovation-591ee3221233}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{University Consortium for Geographic Information Science}%
+}{%
+{University Consortium for Geographic Information Science}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+bok2018}
+\APACinsertmetastar {%
+bok2018}%
+\begin{APACrefauthors}%
+{University Consortium for Geographic Information Science}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {GIS\&T Body of Knowledge.} {Gis\&t body of knowledge.}
+\newblock
+\begin{APACrefURL} [{24 September 2018}]\url{http://gistbok.ucgis.org/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Unwin%
+}{%
+Unwin%
+}{%
+{\protect \APACyear {1980}}%
+}]{%
+Unwin1980}
+\APACinsertmetastar {%
+Unwin1980}%
+\begin{APACrefauthors}%
+Unwin, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1980}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Make your practicals open-ended} {Make your practicals
+  open-ended}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geography in Higher
+  Education}{4}{2}{39--42}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wiley%
+}{%
+Wiley%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Wiley2009}
+\APACinsertmetastar {%
+Wiley2009}%
+\begin{APACrefauthors}%
+Wiley, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+\APACrefbtitle {Creating open educational resources} {Creating open educational
+  resources}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{Materials prepared for an independent study class on
+  open educational resources}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+G.~Wilson%
+}{%
+G.~Wilson%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+SCF2016}
+\APACinsertmetastar {%
+SCF2016}%
+\begin{APACrefauthors}%
+Wilson, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Software Carpentry: lessons learned [version 2;
+  referees: 3 approved]} {Software carpentry: lessons learned [version 2;
+  referees: 3 approved]}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{F1000Research}{3}{62}{1-24}.
+\newblock
+\begin{APACrefDOI} \doi{10.12688/f1000research.3-62.v2} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R.~Wilson%
+\ \BBA {} Wilson%
+}{%
+R.~Wilson%
+\ \BBA {} Wilson%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+osswatch2013}
+\APACinsertmetastar {%
+osswatch2013}%
+\begin{APACrefauthors}%
+Wilson, R.%
+\BCBT {}\ \BBA {} Wilson, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Creative Commons And Open Content.} {Creative commons and open
+  content.}
+\newblock
+\begin{APACrefURL} [{19 September
+  2018}]\url{http://oss-watch.ac.uk/resources/cclicensing} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wyly%
+}{%
+Wyly%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Wyly2014}
+\APACinsertmetastar {%
+Wyly2014}%
+\begin{APACrefauthors}%
+Wyly, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The new quantitative revolution} {The new quantitative
+  revolution}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Dialogues in Human Geography}{4}{1}{26--38}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
