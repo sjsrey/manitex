@@ -19,7 +19,7 @@ been accepted for publication.
 
 ## Using 
 
-If the main latex document is called `main.tex`, we first need to generate a list of files needed to compile the paper. To do this, add the following at the top of the main latex document:
+If the main latex document is called `main.tex`, we first need to generate a list of files required to compile the paper. To do this, add the following at the top of the main latex document:
 
 ```
 \RequirePackage{snapshot}
