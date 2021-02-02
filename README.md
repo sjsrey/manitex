@@ -8,7 +8,7 @@ License:  LPPL v1.3 or later (LaTeX code) and BSD 3-Clause (Python code)
 Development:  https://github.com/sjsrey/manitex
 Requirements:  Python 3+
 
-The manitext package builds a manifest of files for a Latex Article that has
+The manitext package builds a manifest of files for a Latex article that has
 been accepted for publication. 
 
 ## Features

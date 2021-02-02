@@ -3,8 +3,11 @@ import os
 import os.path
 import shutil
 import argparse
+import errno
+import tempfile
+import shutil
 
-
+dirpath = tempfile.mkdtemp() # use a tempdir if outputdir not specified
 description = 'Build manifest for publication in LaTex.'
 parser = argparse.ArgumentParser(description=description)
 parser.add_argument('main', help="main file name", type=str)
@@ -18,7 +21,12 @@ args = parser.parse_args()
 MAIN_FILE = args.main
 TARGET_DIR = args.outputdir
 EXTENSIONS = args.extensions
+TMP_FLAG = False
 
+cwd = os.getcwd()
+if TARGET_DIR == 'manifest':
+    TARGET_DIR = dirpath
+    TMP_FLAG = True
 
 # check if dep file has been built
 try:
@@ -59,6 +67,14 @@ def get_image_files():
     return img_files
 
 
+def make_sure_path_exists(path):
+    try:
+        os.makedirs(path)
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise
+
+
 def main():
     """main"""
     image_files = get_image_files()
@@ -84,6 +100,8 @@ def main():
     # copy files over to manifest directory
     for file_name in file_list:
         dest = os.path.join(TARGET_DIR, file_name)
+        path = os.path.dirname(dest)
+        make_sure_path_exists(path)
         shutil.copyfile(file_name, dest)
 
     # write manifest list as README.md
@@ -92,6 +110,9 @@ def main():
 
     # create archive
     shutil.make_archive(DEP_FILE_BASE, 'zip', TARGET_DIR)
+
+    if TMP_FLAG:
+        shutil.rmtree(dirpath)
 
 
 if __name__ == '__main__':
