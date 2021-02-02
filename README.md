@@ -40,6 +40,16 @@ Will produce the zip file `main.zip` that contains all the figures and main
 tex files required to build the pdf version of the article, along with a
 `README.md` file that provides an index/explanation for the copy-editor.
 
+In some cases it can be useful to create a directory that contains the manifest files, rather than only the archive. This can be done with:
+
+```
+manitex main.tex --outputdir dirname
+
+```
+
+`dirname` will contain the required files.
+
+
 
 
 
