@@ -5,16 +5,15 @@ import shutil
 import argparse
 import errno
 import tempfile
-import shutil
 
-dirpath = tempfile.mkdtemp() # use a tempdir if outputdir not specified
+dirpath = tempfile.mkdtemp()  # use a tempdir if outputdir not specified
 description = 'Build manifest for publication in LaTex.'
 parser = argparse.ArgumentParser(description=description)
 parser.add_argument('main', help="main file name", type=str)
 parser.add_argument("--outputdir", help="output directory for manifest",
                     default="manifest")
 parser.add_argument("--extensions", help="image file extensions",
-                    default=['pdf', 'pdf_tex', 'png'])
+                    default=['pdf', 'pdf_tex', 'png', 'jpg'])
 
 args = parser.parse_args()
 
@@ -102,7 +101,10 @@ def main():
         dest = os.path.join(TARGET_DIR, file_name)
         path = os.path.dirname(dest)
         make_sure_path_exists(path)
-        shutil.copyfile(file_name, dest)
+        try:
+            shutil.copyfile(file_name, dest)
+        except:
+            print(f"{file_name} not added.")
 
     # write manifest list as README.md
     with open(os.path.join(TARGET_DIR, 'README.md'), 'w') as readme:
