@@ -47,6 +47,20 @@ except FileNotFoundError:
     print(message)
     quit()
 
+def get_input_files():
+    files = []
+    with open(DEP_FILE, 'r') as f:
+        for line in f:
+            print(line)
+            if '*{file}' not in line:
+                continue
+            value = line.split('{')[2].split('}')
+            source = value[0]
+            _, e = os.path.splitext(source)
+            if not e:
+                source = source+".tex"
+                files.append(source)
+    return files
 
 def get_image_files():
     img_files = []
@@ -64,6 +78,7 @@ def get_image_files():
             print(source)
             img_files.append(source)
     return img_files
+
 
 
 def make_sure_path_exists(path):
@@ -88,6 +103,10 @@ def main():
     manifest.append(f'- {BIB_FILE}:\t bib entries file')
     for i, file_name in enumerate(image_files):
         manifest.append(f'- {file_name}:\t Figure {i+1}')
+        file_list.append(file_name)
+    input_files = get_input_files()
+    for i, file_name in enumerate(input_files):
+        manifest.append(f'- {file_name}:\t Input tex file')
         file_list.append(file_name)
     print("\n".join(manifest))
     print(file_list)
