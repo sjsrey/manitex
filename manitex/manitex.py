@@ -36,6 +36,11 @@ try:
 except FileNotFoundError:
     message = f"missing dep file: {DEP_FILE}"
     print(message)
+    message = ("Please add \\RequirePackage{snapshot} "
+               "to the top of your main file and "
+               "recompile before rerunning manitex."
+               )
+    print(message)
     quit()
 
 BIB_FILE = DEP_FILE_BASE + ".bbl"
@@ -47,7 +52,9 @@ except FileNotFoundError:
     print(message)
     quit()
 
+
 def get_input_files():
+    r"""Check for \input files to add to Manifest."""
     files = []
     with open(DEP_FILE, 'r') as f:
         for line in f:
@@ -62,7 +69,9 @@ def get_input_files():
                 files.append(source)
     return files
 
+
 def get_image_files():
+    """Gather any image files for manifest."""
     img_files = []
     with open(DEP_FILE, 'r') as f:
         for line in f:
@@ -80,8 +89,8 @@ def get_image_files():
     return img_files
 
 
-
 def make_sure_path_exists(path):
+    """Check for paths."""
     try:
         os.makedirs(path)
     except OSError as exception:
@@ -90,7 +99,7 @@ def make_sure_path_exists(path):
 
 
 def main():
-    """main"""
+    """Wrap application."""
     image_files = get_image_files()
     file_list = []
     manifest = ["# File list"]
@@ -120,10 +129,8 @@ def main():
         dest = os.path.join(TARGET_DIR, file_name)
         path = os.path.dirname(dest)
         make_sure_path_exists(path)
-        try:
-            shutil.copyfile(file_name, dest)
-        except:
-            print(f"{file_name} not added.")
+        shutil.copyfile(file_name, dest)
+        print(f"{file_name} not added.")
 
     # write manifest list as README.md
     with open(os.path.join(TARGET_DIR, 'README.md'), 'w') as readme:
