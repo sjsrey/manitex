@@ -1,7 +1,7 @@
 # manitex
 
 Author:  Serge Rey  
-Version:  0.01 (2021/01/08)  
+Version:  0.2 (2023/01/15)  
 License:  LPPL v1.3 or later (LaTeX code) and BSD 3-Clause (Python code)  
 Development:  https://github.com/sjsrey/manitex
 Requirements:  Python 3+
